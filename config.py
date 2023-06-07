@@ -23,5 +23,5 @@ movedelay = 4
 start = 1100 , 620 #First Slot
 end = 1055, 444 #Disenchated Item
 delay = 0.01
-reach = 35
+gap = 35
 
