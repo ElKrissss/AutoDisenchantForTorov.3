@@ -45,8 +45,8 @@ You just have to copy the XY Position when you have the mouse over the coordinat
 ## Config
 ### Steal and Dump Buttons
 ![enter image description here](https://cdn.discordapp.com/attachments/735242095639658496/1116082246479269888/Captura_de_pantalla_2023-06-07_204519.png)
-### Reach
-![enter image description here](https://cdn.discordapp.com/attachments/735242095639658496/1116082327454490635/reach.png)
+### Gap
+![enter image description here](https://cdn.discordapp.com/attachments/735242095639658496/1116085101323886744/gap.png)
 
 
 ## Author
