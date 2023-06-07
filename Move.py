@@ -6,8 +6,8 @@ import config
 stealcoords = config.stealc
 dumpcoords = config.dumpc
 panickey = config.panickey
+movedelay = config.movedelay
 
-delay = 4
 loop = True
 
 def parar(e):
@@ -18,13 +18,13 @@ keyboard.on_press_key(panickey, parar)
 
 time.sleep(3)
 while loop == True:
-    time.sleep(delay)
+    time.sleep(movedelay)
     pyautogui.click(stealcoords)
     pyautogui.click(stealcoords)
-    time.sleep(delay)
+    time.sleep(movedelay)
     pyautogui.click(dumpcoords)
     pyautogui.click(dumpcoords)
-    time.sleep(delay)
+    time.sleep(movedelay)
 
 
     
