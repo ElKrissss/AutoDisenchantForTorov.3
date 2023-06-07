@@ -7,7 +7,7 @@ import config
 start = list(config.start)
 end = config.end
 delay = config.delay
-reach = config.reach
+gap = config.gap
 
 def suma():
     time.sleep(delay)
@@ -31,7 +31,7 @@ def izq():
         suma()
         time.sleep(delay)
         if slot < 9:
-            start[0] = start[0] -reach 
+            start[0] = start[0] -gap 
 def der():
     slot = 0
     global start
@@ -44,11 +44,11 @@ def der():
         suma()
         time.sleep(delay)
         if slot < 9:
-            start[0] = start[0] +reach 
+            start[0] = start[0] +gap 
 
 
 izq()
-start[1] = start[1] -reach
+start[1] = start[1] -gap
 der()
-start[1] = start[1] -reach
+start[1] = start[1] -gap
 izq()
