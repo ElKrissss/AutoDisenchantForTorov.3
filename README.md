@@ -34,9 +34,11 @@ To view the coordinates of your mouse, you can execute the GetCoords.py script
 py GetCoords.py
 ```
 And you will see a window like this
+
 ![enter image description here](https://cdn.discordapp.com/attachments/735242095639658496/1116082768317775882/image.png)
 
 You just have to copy the XY Position when you have the mouse over the coordinates you need
+
 ![enter image description here](https://cdn.discordapp.com/attachments/735242095639658496/1116083501779918929/image.png)
 
 
