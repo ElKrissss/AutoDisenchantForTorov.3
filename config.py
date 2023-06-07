@@ -10,11 +10,12 @@
 #########################################################
 
 
-# Dupe config
+# Move config
 
 stealc = 917,49 #Steal coords
 dumpc = 1000,49 #Dump coords
 panickey = "o" # Stop
+movedelay = 4
 
 # Disenchan Config
 
